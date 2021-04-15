@@ -1,0 +1,21 @@
+
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 800px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: auto;
+    margin-left: auto;
+    border-style: solid;
+    border-color: #931420;
+    background-color: #fffded;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
